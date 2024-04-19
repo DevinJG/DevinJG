@@ -1,7 +1,13 @@
  ![IMG_8695](https://github.com/DevinJG/DevinJG/assets/86039118/5c7b288a-3888-416e-af2c-efa4f4fe1c13)
+### Hi 👋 My Name is Devin
 
-                                  ### Hi 👋 My Name is Devin
+## QA Engineer from Colorado 
 
+*I graduated from a QA Engineering bootcamp at TripleTen
+
+*Currently using Javascript with Playwright to write automate test
+
+#Bug tracking tools - Jira 
 <!--
 **DevinJG/DevinJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
