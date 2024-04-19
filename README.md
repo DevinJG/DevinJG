@@ -1,3 +1,5 @@
+ ![IMG_8695](https://github.com/DevinJG/DevinJG/assets/86039118/5c7b288a-3888-416e-af2c-efa4f4fe1c13)
+
 ### Hi 👋 My Name is Devin
 
 <!--
