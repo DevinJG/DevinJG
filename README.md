@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **JS, automation, and API testing**
 
-- 📫 How to reach me **devinjames1771@gmail.com**
-
 - ⚡ Fun fact **I can play the piano (kind of)**
 
 <h3 align="left">Connect with me:</h3>
